@@ -9,3 +9,6 @@ Ziele: EK-Quote= 20-30%, Deckungsgrad 2= mindestens 100%, Liquidität 1.Grades= 
 
 
 Aufgabe 2) GuV
+
+-Berechnung: Jahresüberschuss/-fehlbetrag, Umsatzrendite, Materialaufwandsquote/Umsatzkostenquote, Personalaufwand
+von BMW und Lufthansa 
