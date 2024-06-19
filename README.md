@@ -37,6 +37,14 @@ BMW zeigte eine deutliche Verbesserung der Umsatzrendite im Jahr 2021, was auf g
 
 Materialaufwandsquote
 
+-Lufthansa:
+Die Materialaufwandsquote stieg 2020 aufgrund eines Umsatzrückgangs und konnte 2021 wieder etwas reduziert werden, aber sie blieb höher als vor der Krise.
+
+-BMW:
+Die Umsatzkostenquote bei BMW sank 2021 wieder auf 80%, nachdem sie 2020 aufgrund von Umsatzrückgängen gestiegen war.
+
+Personalaufwandsquote
+
 -Lufthansa: 
 Die Personalaufwandsquote stieg 2020 erheblich, da der Personalaufwand nicht im gleichen Maße wie der Umsatz reduziert werden konnte. 2021 verbesserte sich die Quote wieder, blieb aber über dem Niveau von 2018-2019.
 
