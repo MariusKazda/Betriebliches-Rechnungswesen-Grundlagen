@@ -19,7 +19,7 @@ von BMW (S.149-150) und Lufthansa (S.3)
 
 Interpretation der Entwicklung der Kennzahlen:
 
-Jahresüberschuss oder Fehlbetrag
+Jahresüberschuss/-fehlbetrag
 
 -Lufthansa:
 Die Coronakrise hat die Lufthansa stark getroffen, was zu erheblichen Verlusten in den Jahren 2020 und 2021 führte, obwohl es 2021 schon eine leichte Verbesserung gab.
